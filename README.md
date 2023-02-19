@@ -4,6 +4,7 @@
 
 
  🔭 Hoje trabalho com frontend <br>
+ 
  🌱 Atualmente estudando Angular
 
 
