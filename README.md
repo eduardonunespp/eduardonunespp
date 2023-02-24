@@ -1,4 +1,4 @@
-### Olá, eu sou o Eduardo 👋
+### Opa, eu sou o Eduardo 👋
 
 <hr>
 
