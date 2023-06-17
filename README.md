@@ -9,15 +9,6 @@
   Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
 </p>
 
-<p align="left">
-  Entre em contato comigo através das minhas redes sociais: ⤵️
-</p>
-
-<div align="left">
-  <a href="mailto:carlospn200406@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=carlospn200406@gmail.com" alt="Gmail"/>
-  </a>
-
 
   
   
