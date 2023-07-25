@@ -3,7 +3,7 @@
 <h3>Olá, bem-vindo(a) ao meu Github! :wave:</h3>
 
 <p align="left"> 
-  Me chamo Carlos Eduardo, tenho 19 anos. sou formado em TI no IFCE campus Maracanaú, e atualmente curso Análise e Desenvolvimento de Sistemas, com foco na Engenharia de Software</strong>.
+  Me chamo Carlos Eduardo, tenho 19 anos. sou formado em TI no IFCE campus Maracanaú, curso Análise e Desenvolvimento de Sistemas, com foco na Engenharia de Software</strong>.
   </br>
   </br>
   Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
