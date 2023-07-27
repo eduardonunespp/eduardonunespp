@@ -30,12 +30,9 @@
   </a>
 
   <a href="linkedin.com/in/carlos-eduardo-2a29b4285" target="_blank">
-    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linkedin"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Linkedin"/>
   </a>
 
-
-
-  ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
   
 </div>  
 
