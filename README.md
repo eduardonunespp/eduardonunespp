@@ -6,7 +6,7 @@
   Me chamo Carlos Eduardo, tenho 19 anos. sou formado em TI no IFCE campus Maracanaú, curso Análise e Desenvolvimento de Sistemas, com foco na Engenharia de Software</strong>.
   </br>
   </br>
-  Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
+  Atualmente, atuo como <strong>Desenvolvedor Full Stack</strong> no Núcleo de Desenvolvimento de Software do IFCE.
 
   Também atuo e presto serviço freelance como Desenvolvedor Front-end na NeoCode Solutions, uma software house.
 </p>
