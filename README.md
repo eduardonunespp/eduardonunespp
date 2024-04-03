@@ -7,8 +7,6 @@
   </br>
   </br>
   Atualmente, atuo como <strong>Desenvolvedor Full Stack</strong> no Núcleo de Desenvolvimento de Software do IFCE.
-
-  Também atuo e presto serviço freelance como Desenvolvedor Front-end na NeoCode Solutions, uma software house.
 </p>
 
 
